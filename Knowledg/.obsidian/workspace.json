@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Russo-Ukrainian War, The.md",
+                "file": "Russo-Ukrainian War, The Great Fall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Russo-Ukrainian War, The"
+              "title": "Russo-Ukrainian War, The Great Fall"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Russo-Ukrainian War, The.md",
+                "file": "Russo-Ukrainian War, The Great Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Russo-Ukrainian War, The"
+              "title": "Backlinks for Russo-Ukrainian War, The Great Fall"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Russo-Ukrainian War, The.md",
+                "file": "Russo-Ukrainian War, The Great Fall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Russo-Ukrainian War, The"
+              "title": "Outgoing links from Russo-Ukrainian War, The Great Fall"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Russo-Ukrainian War, The.md",
+                "file": "Russo-Ukrainian War, The Great Fall.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Russo-Ukrainian War, The"
+              "title": "Outline of Russo-Ukrainian War, The Great Fall"
             }
           }
         ]
@@ -203,7 +203,7 @@
   "active": "9ec7770b1b7d1472",
   "lastOpenFiles": [
     "Welcome.md",
-    "Russo-Ukrainian War, The.md",
+    "Russo-Ukrainian War, The Great Fall.md",
     "Yakuza 0 is peak.md"
   ]
 }
