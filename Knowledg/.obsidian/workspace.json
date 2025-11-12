@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "236c982bade0f502",
+    "type": "split",
+    "children": [
+      {
+        "id": "04c93ee6001c7677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ec7770b1b7d1472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Rise of Newtopia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Rise of Newtopia"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fa487127738f9995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc3f3b2d7ed6a8a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c187ce04a685295",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab371e3615e12df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db01e2dfe89bc201",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c10d883770547c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a968ec9e102fb6d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ccca64b69f3e5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "11b110f95a57bf90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e8d12006b0a98eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Rise of Newtopia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Rise of Newtopia"
+            }
+          },
+          {
+            "id": "b88a642611460731",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Rise of Newtopia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Rise of Newtopia"
+            }
+          },
+          {
+            "id": "90c3797d87a2552f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2bb5219a23299c2d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ef07e5997ebad231",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Rise of Newtopia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Rise of Newtopia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9ec7770b1b7d1472",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "The Rise of Newtopia.md",
+    "Yakuza 0 is peak.md"
+  ]
+}
