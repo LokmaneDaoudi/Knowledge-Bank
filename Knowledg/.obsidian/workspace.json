@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Russo-Ukrainian War, The Great Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Russo-Ukrainian War, The Great Fall"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Russo-Ukrainian War, The Great Fall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Russo-Ukrainian War, The Great Fall"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Russo-Ukrainian War, The Great Fall.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Russo-Ukrainian War, The Great Fall"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -200,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ec7770b1b7d1472",
+  "active": "db01e2dfe89bc201",
   "lastOpenFiles": [
-    "Welcome.md",
     "Russo-Ukrainian War, The Great Fall.md",
+    "Untitled.md",
+    "Welcome.md",
     "Yakuza 0 is peak.md"
   ]
 }
