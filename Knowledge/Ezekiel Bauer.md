@@ -8,4 +8,4 @@ His work highlighted a pivotal change in the direction humanity should shift tow
 
 According to him, all previous ideologies can be replaced with a new ideology that focuses on two aspects: [[merit]], and [[progress]].
 
-A an ideology inspired by Josef Pilsudski called **[[Prometheism]]**
+A an ideology inspired by Josef Pilsudski called **[[Promethism]]**
