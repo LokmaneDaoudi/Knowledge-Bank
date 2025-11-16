@@ -1,6 +1,6 @@
 Among modern civilisation being sub-merged into chaos, market crash, and political distress. 
 
-A young, bright philosopher that goes by the name of [[Ezekiel Bauer]], released his work called *On Merit and Progress*
+A young, bright philosopher that goes by the name of [[Ezekiel Bauer]], released his work called *[[On Merit and Progress]]*
 
 His work highlighted a pivotal change in the direction humanity should shift towards to save themselves from calamities like [[The Blackfall]].
 

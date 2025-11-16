@@ -1,1 +1,6 @@
-A philosophy made by the 
+_Prometheism_ dictates that humanity’s salvation does not lie in traditional political or economic ideologies, which have failed to solve systemic inequality or prevent global like The Blackfall (The worst market crash in history), but in supporting a **[[merit-based progress]]** pushed by scientific innovation and human DNA enhancement. It separates technology and biological advancement from the flawed, self-interested human actors (politicians, economists, and law-makers) who historically misused such power, and placing it control in the hands of those proven most meritorious in advancing human capabilities.
+
+##### Naming Origin
+
+Bauer’s fascination with Prometheus goes beyond mere symbolism, he sees in the Titan’s myth a blueprint for humanity’s future. Where others might see Prometheus as just a figure of rebellion, Bauer interprets his sacrifice as a call to seize forbidden knowledge and reshape destiny, no matter the cost or opposition from entrenched powers. This outlook is driven by a deep conviction that progress is a moral imperative, and that suffering for advancement is not merely acceptable, but necessary. Where ancient Prometheus stole fire from the gods, Bauer envisions stealing the spark of evolution, using merit and advancement as humanity’s new guiding flames.
+

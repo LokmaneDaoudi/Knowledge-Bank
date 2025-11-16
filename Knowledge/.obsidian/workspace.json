@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promethism.md",
+                "file": "On Merit and Progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promethism"
+              "title": "On Merit and Progress"
             }
           }
         ],
@@ -227,12 +227,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db01e2dfe89bc201",
+  "active": "dbc3f3b2d7ed6a8a",
   "lastOpenFiles": [
-    "Ezekiel Bauer.md",
-    "Promethism.md",
-    "The Blackfall.md",
+    "On Merit and Progress.md",
     "Russo-Ukrainian War, The Great Fall.md",
+    "Promethism.md",
+    "Liberalism.md",
+    "Ezekiel Bauer.md",
+    "The Blackfall.md",
     "The Communist Manifesto.md",
     "Welcome.md",
     "Yakuza 0 is peak.md"
