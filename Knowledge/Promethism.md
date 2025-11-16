@@ -1,1 +1,1 @@
-A philosophy made by the
+A philosophy made by the 

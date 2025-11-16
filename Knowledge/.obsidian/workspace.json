@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ezekiel Bauer.md",
+                "file": "Promethism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ezekiel Bauer"
+              "title": "Promethism"
             }
           }
         ],
@@ -227,10 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b57180aa7f93bd7",
+  "active": "db01e2dfe89bc201",
   "lastOpenFiles": [
-    "Promethism.md",
     "Ezekiel Bauer.md",
+    "Promethism.md",
     "The Blackfall.md",
     "Russo-Ukrainian War, The Great Fall.md",
     "The Communist Manifesto.md",
