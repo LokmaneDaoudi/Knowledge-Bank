@@ -1,0 +1,1 @@
+After [[Bauer's]] published his book, it was started to being picked up by different people from different lay
