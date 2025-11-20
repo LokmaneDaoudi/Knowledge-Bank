@@ -4,4 +4,4 @@ After [[Bauer's]] published his book, piqued the interest of world's entire popu
 
 Few months after [[Ezekiel Bauer]]'s work was found in every nook and cranny.
 
-A mega corporation known by the name PioneerGenics
+A mega corporation known by the name [[Pioneergenics]] announced the "first" DNA enhanced human being in a high profile event, an athlete loved by many people worldwide has accepted to undergo this risky, yet promising experience to enhance the  
