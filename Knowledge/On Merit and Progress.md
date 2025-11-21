@@ -64,7 +64,7 @@ Promethism offers a new social contract, one that binds society together under t
 
 >Past [[ideologies]] have failed: some granted power by birth regardless of [[merit]], others enabled destruction or enforced false equality that erases true excellence, generating profound injustice.
 
-> Now is the time to place [[progress]] as the sole guide. Technology must serve as th[[e definitive measure of merit]], empowering a more *capable humanity* to govern and work toward [[the common good for human race]]. 
+> Now is the time to place [[progress]] as the sole guide. Technology must serve as th[[e definitive measure of merit]], empowering a more *[[capable humanity]]* to govern and work toward [[the common good for human race]]. 
 
 >  Adoption of this ideology is not optional but existential; it is the sine qua non of a viable future
 
