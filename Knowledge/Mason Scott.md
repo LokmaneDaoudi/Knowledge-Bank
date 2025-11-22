@@ -16,4 +16,4 @@
 
 **Impulsive, reckless:** Where he's being put in situation where the other side in the conflict got everything to lose, he tends to act recklessly, and impulsively. This was illustrated into making the Time Machine, due to the fact that [[Theodore Zakharov]], his investor and mentor was always putting him as a second man taking all the fame and financial recognition. Which left Scott blinded by the idea of ascending to the top no matter what the cost.
 
-**Quirks:** Scott is calm weary 
+**Quirks as Keywords:** Calm, military-trained, sassy, provocative,
