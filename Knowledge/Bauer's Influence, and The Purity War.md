@@ -1,3 +1,5 @@
+**MOC**: [[Worldbuilding MOC]]
+
 After [[Bauer's]] published his book, piqued the interest of world's entire population, a controversial stream of thoughts, challenging everything humanity learned so far, providing them with a unorthodox solution to save what's left from [[civilization]], a [[systematic]] yet mad approach to achieve objective [[technological advancement]].
 
 #### [[The Blackfall]], Human Disparity, and Identity.

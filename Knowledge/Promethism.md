@@ -1,3 +1,5 @@
+**MOC**: [[Worldbuilding MOC]]
+
 _Prometheism_ dictates that humanity’s salvation does not lie in traditional political or economic ideologies, which have failed to solve systemic inequality or prevent global like The Blackfall (The worst market crash in history), but in supporting a **[[merit-based progress]]** pushed by scientific innovation and human DNA enhancement. It separates technology and biological advancement from the flawed, self-interested human actors (politicians, economists, and law-makers) who historically misused such power, and placing it control in the hands of those proven most meritorious in advancing human capabilities.
 
 ##### Naming Origin

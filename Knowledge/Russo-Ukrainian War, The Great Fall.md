@@ -1,3 +1,5 @@
+**MOC**: [[Worldbuilding MOC]]
+
 In 2022, the [[Russo-Ukrainian war]] escalated to unprecedented levels.
 - Escalations caused governments to prepare for [[WWI]] due to the severity of the conflict and the involvement [[NATO]] countries against the [[Russian]] government.
 - The tension led to worst global market crash in history, which was called [[The Blackfall]]

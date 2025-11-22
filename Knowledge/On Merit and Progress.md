@@ -1,3 +1,5 @@
+**MOC**: [[Worldbuilding MOC]]
+
 A [[political]] and [[ideological]] book written by [[Ezekiel Bauer]]. 
 
 The text represents the rise of [[Promethism]] and ideology that on [[merit-based progress]].
